@@ -37,3 +37,15 @@ There is two maps already provided `backroom.cub` and `wolfenstein.cub`
 ## Usage
 
 After compiling with `make`, launch the game by running `./cub3d <map_path>`.
+
+## Controls
+
+- **Movement**:
+  - `W` - Move forward
+  - `A` - Move left
+  - `S` - Move backward
+  - `D` - Move right
+- **Look Around**:
+  - `Left Arrow` - Turn left
+  - `Right Arrow` - Turn right
+
